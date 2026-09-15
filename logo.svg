@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" fill="none">
+  <g transform="translate(4, 6)">
+    <!-- Traditional Indian auspicious gopuram / temple arch motif in maroon & gold -->
+    <rect x="2" y="2" width="48" height="48" rx="8" fill="#7A1F24" />
+    <path d="M26 10L36 24H16L26 10Z" fill="#C8962E" />
+    <path d="M20 24H32V38H20V24Z" fill="#FFF9F0" />
+    <path d="M23 28C23 26.3431 24.3431 25 26 25C27.6569 25 29 26.3431 29 28V38H23V28Z" fill="#7A1F24" />
+    <circle cx="26" cy="18" r="2.5" fill="#FFF9F0" />
+    <!-- Kalasa spire point -->
+    <line x1="26" y1="7" x2="26" y2="10" stroke="#C8962E" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="64" y="27" font-family="'Playfair Display', Georgia, serif" font-size="16" font-weight="700" letter-spacing="0.5" fill="#7A1F24">KARNATAKA PRAVASI SOUDHA</text>
+  <text x="64" y="44" font-family="'Inter', sans-serif" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8C6239">TIRUMALA · PILGRIM ACCOMMODATION</text>
+</svg>
